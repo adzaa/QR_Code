@@ -22,7 +22,7 @@ body {
 }
 
 
-main {
+.qr-container {
     max-width: 300px;
     width: 100%;
     height: auto;
